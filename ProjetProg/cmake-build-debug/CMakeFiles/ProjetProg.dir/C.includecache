@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/foncsystem.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+string.h
+-
+func1.h
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/func1.h
+
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/foncsystem.h
+
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/func1.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+string.h
+-
+
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/func1.h
+
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+func1.h
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/func1.h
+stddef.h
+-
+conio.h
+-
+foncsystem.h
+C:/Users/Blooooo/OneDrive - CPNV/Documents/ProjetProg/foncsystem.h
+string.h
+-
+
